@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Hacker News 中文摘要</title>
+    <link>https://news.ycombinator.com/</link>
+    <description>由Gemini AI生成的Hacker News热门文章中文摘要</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 15 Aug 2025 06:38:32 +0000</lastBuildDate>
+    <item>
+      <title>Time to End Roundtripping by Big Pharma</title>
+      <link>https://www.cfr.org/blog/time-end-roundtripping-big-pharma</link>
+      <description>美国大型制药公司利用2017年税改法案中的漏洞，将利润转移到低税率国家（如爱尔兰），从而避税，导致美国与爱尔兰的贸易逆差仅次于中国。这些公司将药物生产转移到海外，再进口回美国，几乎免除了美国企业所得税。  这使得美国政府税收减少，并造成巨额贸易逆差。文章指出，美国顶级制药公司采用这种避税策略已持续数年，几乎没有缴纳美国企业所得税。  作者呼吁改革税法，消除激励公司将利润转移到海外的机制，从而增加政府收入并减少贸易逆差。  文章以苹果和微软等公司为例，说明了此类避税行为的规模巨大，并强调了改变现状的必要性。
+</description>
+      <guid isPermaLink="true">https://www.cfr.org/blog/time-end-roundtripping-big-pharma</guid>
+    </item>
+    <item>
+      <title>Blood oxygen monitoring returning to Apple Watch in the US</title>
+      <link>https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/</link>
+      <description>苹果公司宣布，美国地区部分Apple Watch Series 9、Series 10和Apple Watch Ultra 2用户将通过即将发布的iPhone和Apple Watch软件更新（iOS 18.6.1和watchOS 11.6.1）获得重新设计的血氧功能。此更新基于近期美国海关的裁决，更新后，Apple Watch上的血氧数据将在配对的iPhone上进行测量和计算，结果可在健康App的呼吸部分查看。此前已购买并拥有原版血氧功能的Apple Watch用户以及美国境外购买的Apple Watch不受影响。此次更新不会影响Apple Watch的其他健康功能，例如心律不齐通知、心电图App等。
+</description>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/</guid>
+    </item>
+    <item>
+      <title>South Park and the greatest TV contract clause</title>
+      <link>https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract</link>
+      <description>南公园两位主创马特·斯通和特雷·帕克凭借其动画剧集《南方公园》成为亿万富翁，个人资产均达12亿美元。  这得益于他们与派拉蒙达成的开发协议和15亿美元的流媒体独家协议，以及早期巧妙的合约谈判。  二人自1997年在喜剧中心首播以来，凭借其大胆讽刺的风格和持续的创作力，成功抓住并引领文化潮流。  尽管初期动画粗糙，幽默辛辣，但其独特的风格最终获得成功，并签订了电视史上最有利可图的合约条款之一，使其从最初的病毒式传播的圣诞短片，发展成为风靡全球的现象级动画剧集，持续至今。
+</description>
+      <guid isPermaLink="true">https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract</guid>
+    </item>
+    <item>
+      <title>I used to know how to write in Japanese</title>
+      <link>https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese</link>
+      <description>文章探讨了作者学习日语汉字的经历及其后遗症——汉字书写能力的衰退。作者最初采用Heisig的方法，先学习汉字含义和书写，后学习发音，取得显著成效。然而，多年后，即使日常大量使用日语，作者却发现自己无法手写大部分汉字，这并非个例，在日本和中国都普遍存在“电脑白痴”现象。  神经科学研究表明，阅读和书写汉字分别激活大脑不同区域，是两种独立技能。作者推测，其自身患有影像思维缺失症（aphantasia）可能与书写能力衰退有关，但此现象并非仅限于此类人群。研究表明汉字频率、习得年龄等因素与书写遗忘相关，而大脑的模糊痕迹理论或许能解释这种现象：大脑更倾向于记忆事物的核心含义而非细节，导致书写细节的遗忘。
+</description>
+      <guid isPermaLink="true">https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese</guid>
+    </item>
+    <item>
+      <title>Why LLMs can't really build software</title>
+      <link>https://zed.dev/blog/why-llms-cant-build-software</link>
+      <description>作者长期面试软件工程师的经验表明，优秀工程师的关键在于构建和维护清晰的思维模型。他们能够在编写、测试、调试代码的过程中，根据测试结果和自身模型判断问题所在，并有效解决。大型语言模型（LLM）擅长代码生成和修改，但缺乏构建和维护清晰思维模型的能力，容易在复杂问题面前迷失，无法有效迭代解决问题。尽管LLM对软件工程师有辅助作用，但对于非简单任务，工程师仍需主导，确保需求清晰，代码正确，LLM仅作为工具使用。
+</description>
+      <guid isPermaLink="true">https://zed.dev/blog/why-llms-cant-build-software</guid>
+    </item>
+    <item>
+      <title>We rewrote the Ghostty GTK application</title>
+      <link>https://mitchellh.com/writing/ghostty-gtk-rewrite</link>
+      <description>Ghostty，一款跨平台终端模拟器，其Linux和BSD版本已完成重写，充分利用了Zig语言和GObject类型系统。重写解决了此前因绕过GObject系统导致的内存管理问题，例如Zig内存和GTK内存释放不一致等，显著提升了稳定性和可维护性。通过与GObject集成，Ghostty能更便捷地使用GTK原生特性，例如信号、属性和动作，简化了如配置重载等复杂操作。此外，Valgrind全程验证确保了内存安全，尽管代码庞大且使用了大量内存优化技巧，最终仅发现一个由第三方C API引起的内存泄漏和一个未定义内存访问错误。此次重写显著提高了Ghostty的稳定性和功能性，新版本即将发布。
+</description>
+      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-gtk-rewrite</guid>
+    </item>
+    <item>
+      <title>Gemma 3 270M: Compact model for hyper-efficient AI</title>
+      <link>https://developers.googleblog.com/en/introducing-gemma-3-270m/</link>
+      <description>Gemma家族发布了新的轻量级模型Gemma 3 270M，该模型参数量仅为2.7亿，专为特定任务微调而设计，具备强大的指令遵循和文本结构化能力。  Gemma 3系列模型已累计下载超过两亿次，此次发布延续了“适用的工具”理念，强调效率而非单纯的算力。  Gemma 3 270M 可用于构建精简、快速且经济高效的生产系统，在文本分类和数据提取等任务中表现出色。  其高效性已在实际应用中得到验证，例如Adaptive ML与SK Telecom合作利用微调后的Gemma 3模型成功完成了多语言内容审核任务。  Gemma 3 270M  易于上手，开发者可轻松创建一系列小型专用模型，并应用于企业级任务和创意应用，例如故事生成器。
+</description>
+      <guid isPermaLink="true">https://developers.googleblog.com/en/introducing-gemma-3-270m/</guid>
+    </item>
+    <item>
+      <title>Blurry rendering of games on Mac</title>
+      <link>https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/</link>
+      <description>本文作者向苹果公司报告了一个自2023年9月以来一直存在的问题（FB13375033）：在带刘海的MacBook屏幕上运行全屏游戏时，由于Apple的AppKit（或Catalyst）API存在问题，许多游戏渲染错误。问题在于`CGDisplayCopyAllDisplayModes`函数返回的显示模式列表同时包含带刘海的全屏分辨率和去除刘海的可绘区域分辨率，且缺乏有效的筛选机制。大多数游戏默认选择列表中的第一个分辨率（带刘海的），导致画面被压缩变形。作者建议苹果更新人机界面指南（HIG）和示例代码，改进API，提供更友好的游戏开发接口，或至少允许开发者更方便地筛选出适合全屏游戏的16:10分辨率，解决画面失真问题。
+</description>
+      <guid isPermaLink="true">https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/</guid>
+    </item>
+    <item>
+      <title>Progress towards universal Copy/Paste shortcuts on Linux</title>
+      <link>https://mark.stosberg.com/universal-copy-paste/</link>
+      <description>Linux终端中Ctrl+C和Ctrl+V无法复制粘贴，需使用Ctrl+Shift+C等组合键。然而，一种利用编程键盘和软件支持的方案正在兴起。许多新款键盘允许自定义固件，将特定按键组合（例如按下Fn键再按C/V）映射为复制/粘贴键码。GTK和QT等常用Linux GUI工具包已于2025年1月添加对这些键码的支持，许多应用程序（如Alacritty、Foot和Wezterm）已兼容，Gnome Terminal和Konsole等预计在2025年底前支持。浏览器方面，Firefox、Zen和Vivaldi已支持粘贴键码。此方案无需额外软件或配置，通过硬件和软件的共同支持，将恢复传统物理复制粘贴按键的功能。
+</description>
+      <guid isPermaLink="true">https://mark.stosberg.com/universal-copy-paste/</guid>
+    </item>
+  </channel>
+</rss>
